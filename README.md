@@ -1,4 +1,4 @@
-# \texttt{C73-43}: contemporaneously nested information\ does not ensure approximate stopping equilibrium
+# C73-43: contemporaneously nested information does not ensure approximate stopping equilibrium
 
 Ji Ho Bae, LawAll AI
 
